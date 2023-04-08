@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tan-ishq21
-- 👀 I’m interested in Coding and making new apps
-- 🌱 I’m currently learning ... c++ and dsa
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tanishq
+- 👀 I’m interested in Coding and making new web pages
+- 🌱 I’m currently learning ... DSA in C++, advance frontend tools
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... contact me on mail tan.sriv27@gmail.com
 
 <!---
 tan-ishq21/tan-ishq21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
