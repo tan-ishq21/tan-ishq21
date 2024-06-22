@@ -13,7 +13,7 @@ I'm a passionate frontend developer with a keen interest in developing efficient
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/tanishq-raj-70a9a222a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanishq-raj-70a9a222a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tan.sriv27@gmail.com)
 
 ## 🛠️ Tech Stack
@@ -45,12 +45,4 @@ I'm a passionate frontend developer with a keen interest in developing efficient
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tan-ishq21&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 📈 Contribution Graph
-
-[![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tan-ishq21&theme=redical)](https://github.com/tan-ishq21/github-readme-activity-graph)
-
-
----
-⭐️ From [Tanishq Raj](https://github.com/tan-ishq21)
 
