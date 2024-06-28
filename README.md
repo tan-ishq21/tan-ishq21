@@ -38,8 +38,9 @@ I'm a passionate frontend developer with a keen interest in developing efficient
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tan-ishq21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ishq21&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tan-ishq21&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ishq21&layout=compact&theme=radical&v=1)
+
 
 ## 🏆 GitHub Trophies
 
