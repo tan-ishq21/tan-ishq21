@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate frontend developer with a keen interest in developing efficient and scalable frontend solutions. I enjoy learning new technologies and staying up-to-date with industry trends. 
 
-- 🔭 I’m currently working on [https://github.com/tan-ishq21/hirevolve]
+- 🔭 Visit my Website [https://dev-portfolio-tanishq-raj.vercel.app/]
 - 🌱 I’m currently learning [Next.Js]
 - 👯 I’m looking to collaborate on [Frontend Projects]
 - 💬 Ask me about [React, Next, UI/UX]
