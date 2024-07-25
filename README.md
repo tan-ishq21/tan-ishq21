@@ -36,10 +36,17 @@ I'm a passionate frontend developer with a keen interest in developing efficient
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats
+## <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1643515314/13343/trophy.gif?1643515314" height="30"></a> Github Stats and Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan-ishq21&layout=compact&theme=radical&v=1)
+  <p align="center">
+    
+  <img alt="Tanishq Raj's streak" src="https://streak-stats.demolab.com/?user=tan-ishq21&theme=monokai-metallian&hide_border=true"/>
+  <img alt="Tanishq Raj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tan-ishq21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </p>
 
+<p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+
+<img alt="Tanishq Raj's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tan-ishq21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ## 🏆 GitHub Trophies
 
